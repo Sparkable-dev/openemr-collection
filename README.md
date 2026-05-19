@@ -3,6 +3,9 @@
 > A complete, production-ready API reference and developer toolkit for OpenEMR — covering 121+ documented requests across FHIR R4, Basic Auth & Custom Operations.
 
 ![OpenEMR Collection Banner](assets/banner.png)
+![Docs Preview](assets/docs-preview.png)
+
+![OpenEMR Preview](assets/openEMR-preview.png)
 
 ---
 
@@ -60,6 +63,7 @@ npm run dev
 
 Docs will be available at `http://localhost:4321`
 
+
 ### Run OpenEMR Locally via Docker
 
 ```bash
@@ -74,11 +78,14 @@ Default credentials:
 
 > After login, go to **Admin → Globals → Connectors** and enable REST API and FHIR R4 API.
 
+![OpenEMR Preview](assets/openEMR-preview.png)
 ---
 
 ## 📖 Documentation
 
 Full documentation is available at **[docs link here]**
+
+![Docs Preview](assets/docs-preview.png)
 
 | Section | Description |
 |---|---|
